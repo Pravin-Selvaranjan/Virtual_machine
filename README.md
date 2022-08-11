@@ -1,6 +1,7 @@
 # __Virtualisation install guide - Ruby - Virtualbox - Vagrant__
 
-(image)
+![vagrant10](https://user-images.githubusercontent.com/110179866/184190166-5db87adc-bfa7-4394-8a66-df1b7e49bab5.jpeg)
+
 
 ## Please read all the instructions thoroughly and carefully
 
@@ -72,14 +73,20 @@ end
 - once out of the file you can use `cat Vagrantfile` to see if the contents is correct
 - You then must run `vagrant up`
 
-(image)
+<img width="328" alt="vagrant1 jpeg" src="https://user-images.githubusercontent.com/110179866/184190322-e3b68e60-6d0c-4ab8-9308-b54f5a1fd60a.png">
+
 
 - Once that process has completed your virtual environment should be setup for use
 - You can check this by running `vagrant status`
 
-(image)
+<img width="244" alt="vagrant2 jpeg" src="https://user-images.githubusercontent.com/110179866/184190367-476e292c-09fd-45dd-afdf-5d8104f51ad1.png">
+
 
 - Whilst in the correct pathway run `vagrant ssh` to enter your virtual environment and utilise the below cmds to navigate the environment.
+
+
+<img width="239" alt="vagrant3 jpeg" src="https://user-images.githubusercontent.com/110179866/184190446-a2b82dcb-256a-480c-9f8f-41c24c7198a7.png">
+
 
 
 
@@ -95,6 +102,12 @@ end
 - or `nano filename`
 - How to check existing file/folders `ls` or `ls -a`
 - How to create a folder `mkdir foldername`
+
+
+<img width="164" alt="vagrant4 jpeg" src="https://user-images.githubusercontent.com/110179866/184190508-08254a0f-c4c1-4486-85bc-7bca521146b6.png">
+
+
+
 - How to navigate inside the folder `cd foldername`
 - How to come out of the folder or 1 step back `cd ..`
 - How can we check our current location/Where am i `pwd`
@@ -110,6 +123,10 @@ end
 -  how to use `|` pipe
 - how to check file permission `ll`
 - change file permission `chmod permission filenanme`
+
+<img width="218" alt="vagrant5 jpeg" src="https://user-images.githubusercontent.com/110179866/184190645-0a7c1b1e-86f3-4975-a74f-3d09a8d3101c.png">
+
+
 - - `r` or `w` or `rw` or `all` also numbers `400` or `600` for all `700`
 
 - update our ubuntu OS `apt-get update`
@@ -118,6 +135,10 @@ end
 - how to create automate tasks with provisioning scripts 
 - automate update and upgrade
 - run provision.sh `./provision.sh`
+
+<img width="300" alt="vagrant6 jpeg" src="https://user-images.githubusercontent.com/110179866/184190716-22a96a6f-4e5d-4499-83ef-d642684f50d5.png">
+
+
 
 - How to kill a process `SIGKILL`
 - How to change file name in linux `mv (option) filename1.ext filename2.ext`
