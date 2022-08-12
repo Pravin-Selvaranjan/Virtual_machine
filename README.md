@@ -1,6 +1,7 @@
 # __Virtualisation install guide - Ruby - Virtualbox - Vagrant__
 
-![vagrant10](https://user-images.githubusercontent.com/110179866/184190166-5db87adc-bfa7-4394-8a66-df1b7e49bab5.jpeg)
+![Blank diagram (1)](https://user-images.githubusercontent.com/110179866/184345227-e32ba37d-3edb-4e70-b2aa-df578318599e.jpeg)
+
 
 
 ## Please read all the instructions thoroughly and carefully
