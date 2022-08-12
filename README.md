@@ -142,3 +142,8 @@ end
 
 - How to kill a process `SIGKILL`
 - How to change file name in linux `mv (option) filename1.ext filename2.ext`
+- Install nginx `sudo apt-get install nginx -y`
+- How to check if it's installed or working `sudo systemctl status nginx`
+- how to restart a process - in this case its an NGINX
+- restart or start `sudo systemctl restart nginx` 
+- enable the process `sudo systemctl enable ngninx`
