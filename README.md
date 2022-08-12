@@ -147,3 +147,5 @@ end
 - how to restart a process - in this case its an NGINX
 - restart or start `sudo systemctl restart nginx` 
 - enable the process `sudo systemctl enable ngninx`
+- vagrant reload/destroy and re install nginx(or whatever) 
+- 
