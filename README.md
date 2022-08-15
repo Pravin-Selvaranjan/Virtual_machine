@@ -186,3 +186,5 @@ end
 - Once configured `vagrant reload` in the main folder where the vagrantfile is located
 - Once in the VM double check that the correct folders are available
 
+<img width="297" alt="vagrant new 2" src="https://user-images.githubusercontent.com/110179866/184635965-bde44ad7-fc13-46cf-8533-6783a574b5bd.png">
+
