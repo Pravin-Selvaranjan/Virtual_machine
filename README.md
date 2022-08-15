@@ -149,4 +149,35 @@ end
 - restart or start `sudo systemctl restart nginx` 
 - enable the process `sudo systemctl enable ngninx`
 - vagrant reload/destroy and re install nginx(or whatever) 
-- 
+
+
+
+# Nodejs
+
+- Time boxing - 1 day
+- What are the dependencies 
+- Which version of app/nodejs - NodeJs 6.4 or above
+- Which environment can this be deployed - Linux ubuntu 16.04 or above
+  
+
+  ## Monolith Deployment
+  #### Nodejs - backend tool
+  ##### by default Nodejs works on port 3000
+  - Q&A ` What are the features of this app`
+  - `3 pages` 1 `sparta app page` 2 `fibonacii replacement` 3 `192.168.10.100:3000/posts` for mongodb
+  - mongodb default port is `27017` and Mongodb allows you to access - `mongod.conf` you need to allow the required ip
+  - what is nodejs - how to launch it
+  - what are the dependencies - install nodejs -> required version of that `version 6.0 or above`
+  - ` sudo apt-get install nodejs -y` centOS ` yum install nodejs -y`
+  - Which env is needed in order for us to deploy this app
+  - `linux ubuntu 16.04 or above
+  
+
+- Be sure the correct path is selected
+- Sync our app folder from localhost to VM
+- `config.vm.synced_folder ".", "/home/vagrant/app"`
+- sync data from localhost destination
+
+- Once configured `vagrant reload` in the main folder where the vagrantfile is located
+- Once in the VM double check that the correct folders are available
+
