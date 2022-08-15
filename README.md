@@ -200,5 +200,10 @@ end
 - Once all tests have successfully passed 
 - Run `npm install` in VM
 - then `npm start` in VM
+
+
+
 <img width="299" alt="npm start" src="https://user-images.githubusercontent.com/110179866/184651855-71ed02dd-84a0-4369-9c15-c03bc60cc997.png">
+
+
 
