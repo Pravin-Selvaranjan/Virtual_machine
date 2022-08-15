@@ -188,3 +188,12 @@ end
 
 <img width="297" alt="vagrant new 2" src="https://user-images.githubusercontent.com/110179866/184635965-bde44ad7-fc13-46cf-8533-6783a574b5bd.png">
 
+
+
+
+- Use rake spec in `test-code` folder to run the tests
+- Install all relevant errors/failures
+- Once all tests have successfully passed 
+- Run `npm install` in VM
+- then `npm start` in VM
+
