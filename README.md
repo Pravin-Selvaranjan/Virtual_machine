@@ -175,6 +175,11 @@ end
 
 - Be sure the correct path is selected
 - Sync our app folder from localhost to VM
+
+<img width="398" alt="vagrant new" src="https://user-images.githubusercontent.com/110179866/184632986-44332183-6386-46b5-9290-61f4885100f4.png">
+
+
+
 - `config.vm.synced_folder ".", "/home/vagrant/app"`
 - sync data from localhost destination
 
