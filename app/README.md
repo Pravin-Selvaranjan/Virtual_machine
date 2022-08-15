@@ -1,4 +1,4 @@
-# Sparta Node Sample App
+## Sparta Node Sample App
 
 ## Description
 
@@ -9,7 +9,7 @@ To use the repo within your course you should fork it.
 The app is a node app with three pages.
 
 ### Homepage
-
+- `192.168.10.100:3000`
 ``localhost:3000``
 
 Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response.
