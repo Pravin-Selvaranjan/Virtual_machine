@@ -192,8 +192,13 @@ end
 
 
 - Use rake spec in `test-code` folder to run the tests
+
+
+<img width="297" alt="rake spec" src="https://user-images.githubusercontent.com/110179866/184651840-ef4407e9-2f15-404c-987f-41d526fb4f14.png">
+
 - Install all relevant errors/failures
 - Once all tests have successfully passed 
 - Run `npm install` in VM
 - then `npm start` in VM
+<img width="299" alt="npm start" src="https://user-images.githubusercontent.com/110179866/184651855-71ed02dd-84a0-4369-9c15-c03bc60cc997.png">
 
